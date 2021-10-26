@@ -1,0 +1,12 @@
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\bin\Release\net5.0\Smokeball.Utilities.deps.json
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\bin\Release\net5.0\Smokeball.Utilities.dll
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\bin\Release\net5.0\ref\Smokeball.Utilities.dll
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\bin\Release\net5.0\Smokeball.Utilities.pdb
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.csproj.AssemblyReference.cache
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.AssemblyInfoInputs.cache
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.AssemblyInfo.cs
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.dll
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\ref\Smokeball.Utilities.dll
+C:\Users\vkumar\source\repos\Smokeball\Smokeball.Utilities\obj\Release\net5.0\Smokeball.Utilities.pdb

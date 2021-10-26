@@ -1,0 +1,6 @@
+{
+    "AppSettings": {
+        "BaseUrl": "https://www.google.com.au/search?num=100&q=",
+        "Regex": "(<div class=\"kCrYT\"><a href=\\\"/url\\?q=)(\\w+[a-zA-Z0-9.-?=/]*)"
+    }
+}

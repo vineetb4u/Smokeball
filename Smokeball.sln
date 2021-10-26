@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smokeball", "Smokeball\Smokeball.csproj", "{2A1828E9-AFA2-45D3-AC08-FDF74E49B56D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smokeball.Tests", "Smokeball.Tests\Smokeball.Tests.csproj", "{8A4E338A-18C5-4607-95A3-7669434CAD0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E315934E-82A9-4AFA-8A08-8D235027E151}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smokeball.Services", "Smokeball.Services\Smokeball.Services.csproj", "{731A3398-91AF-48FB-9B1A-55CD97352FAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{056636AD-F058-4B7A-83AF-94AC61F18B2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smokeball.Utilities", "Smokeball.Utilities\Smokeball.Utilities.csproj", "{86DADA6C-1556-4BC8-A134-6D284D4F64D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{25F2DF44-7798-4018-8589-B1486B9020A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1828E9-AFA2-45D3-AC08-FDF74E49B56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1828E9-AFA2-45D3-AC08-FDF74E49B56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1828E9-AFA2-45D3-AC08-FDF74E49B56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1828E9-AFA2-45D3-AC08-FDF74E49B56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4E338A-18C5-4607-95A3-7669434CAD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4E338A-18C5-4607-95A3-7669434CAD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4E338A-18C5-4607-95A3-7669434CAD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4E338A-18C5-4607-95A3-7669434CAD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731A3398-91AF-48FB-9B1A-55CD97352FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731A3398-91AF-48FB-9B1A-55CD97352FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731A3398-91AF-48FB-9B1A-55CD97352FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731A3398-91AF-48FB-9B1A-55CD97352FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DADA6C-1556-4BC8-A134-6D284D4F64D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DADA6C-1556-4BC8-A134-6D284D4F64D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DADA6C-1556-4BC8-A134-6D284D4F64D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DADA6C-1556-4BC8-A134-6D284D4F64D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A4E338A-18C5-4607-95A3-7669434CAD0A} = {25F2DF44-7798-4018-8589-B1486B9020A1}
+		{731A3398-91AF-48FB-9B1A-55CD97352FAB} = {E315934E-82A9-4AFA-8A08-8D235027E151}
+		{86DADA6C-1556-4BC8-A134-6D284D4F64D1} = {056636AD-F058-4B7A-83AF-94AC61F18B2E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50D63B4-1ACE-4440-AC53-0C214FD438A9}
+	EndGlobalSection
+EndGlobal
