@@ -50,8 +50,9 @@ namespace Smokeball
                 var searchResult = this.searchService.GetSearchResult(searchUrl);
 
                 var positions = Utils.FindPositions(searchResult, this.settings.Regex, new Uri(viewModel.Url));
-
-                displayMessage($"URL is found in {positions.ToCsv()} position(s).", MessageType.Info);
+                var postionStr = positions.Any() ? positions.ToCsv() : Convert.ToString(0);
+                
+                displayMessage($"URL is found in { postionStr } position(s).", MessageType.Info);
             }
             catch (Exception ex)
             {
